@@ -1,0 +1,16 @@
+body {
+  background-image: url("binary.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+ background-attachment: fixed;
+}
+button {
+    width: 250px;
+    height: 60px;
+
+    font-size: 25px;
+
+    cursor: pointer;
+    
+    
+}
